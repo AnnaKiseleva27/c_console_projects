@@ -1,0 +1,8 @@
+
+# Игнорируемые файлы
+examples/
+tasks/
+file
+prg4tabN3149.c
+prg4tabN3149_gen.py
+prog
